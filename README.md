@@ -1,5 +1,5 @@
 # weiboScrapy
-用python的Scrapy爬虫框架爬取weibo数据
+用python的Scrapy爬虫框架爬取weibo数据，仅爬取博文的日期以及文字内容
 # 用法
 ```pip install -r requirements.txt```
 
